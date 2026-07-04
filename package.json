@@ -7,9 +7,19 @@
     "start": "node nodz/index.js"
   },
   "dependencies": {
-    "express": "^5.2.1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "axios": "^1.6.0",
+    "betabotz-tools": "^1.0.0",
+    "cfonts": "^3.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "imagemaker.js": "^1.0.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^2.7.0",
+    "textmaker-thiccy": "^1.0.0",
+    "zrapi": "^0.0.3"
+  }
 }
